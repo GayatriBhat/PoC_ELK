@@ -1,0 +1,35 @@
+{
+    "count": 2,
+    "value": [
+        {
+            "_links": {
+                "self": {
+                    "href": "https://dev.azure.com/AMDIT/d3eb7c50-040d-4147-8c39-0459b73997d9/_apis/pipelines/90?revision=4"
+                },
+                "web": {
+                    "href": "https://dev.azure.com/AMDIT/d3eb7c50-040d-4147-8c39-0459b73997d9/_build/definition?definitionId=90"
+                }
+            },
+            "url": "https://dev.azure.com/AMDIT/d3eb7c50-040d-4147-8c39-0459b73997d9/_apis/pipelines/90?revision=4",
+            "id": 90,
+            "revision": 4,
+            "name": "AMD-IT.China-Serial-Number-Verification.Feature_UnitTest",
+            "folder": "\\"
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "https://dev.azure.com/AMDIT/d3eb7c50-040d-4147-8c39-0459b73997d9/_apis/pipelines/55?revision=3"
+                },
+                "web": {
+                    "href": "https://dev.azure.com/AMDIT/d3eb7c50-040d-4147-8c39-0459b73997d9/_build/definition?definitionId=55"
+                }
+            },
+            "url": "https://dev.azure.com/AMDIT/d3eb7c50-040d-4147-8c39-0459b73997d9/_apis/pipelines/55?revision=3",
+            "id": 55,
+            "revision": 3,
+            "name": "China-Serial-Number-Verification-ASP.NET-CI",
+            "folder": "\\"
+        }
+    ]
+}

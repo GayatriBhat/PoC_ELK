@@ -1,0 +1,77 @@
+{
+    "count": 8,
+    "value": [
+        {
+            "id": "d04b4b38-0018-4466-95e3-d849adeb1922",
+            "name": "DevSecOps Playground",
+            "url": "https://dev.azure.com/AMDIT/_apis/projects/d04b4b38-0018-4466-95e3-d849adeb1922",
+            "state": "wellFormed",
+            "revision": 113,
+            "visibility": "private",
+            "lastUpdateTime": "2020-05-15T05:01:18.43Z"
+        },
+        {
+            "id": "2d4d4aaf-fb0b-4e42-ac7b-272729fb0a6b",
+            "name": "QR Code",
+            "url": "https://dev.azure.com/AMDIT/_apis/projects/2d4d4aaf-fb0b-4e42-ac7b-272729fb0a6b",
+            "state": "wellFormed",
+            "revision": 170,
+            "visibility": "private",
+            "lastUpdateTime": "2020-06-17T01:26:01.74Z"
+        },
+        {
+            "id": "04b16941-2be6-48a6-8539-cd2a068ab5d1",
+            "name": "AMD DevSecOps Adoption Project",
+            "url": "https://dev.azure.com/AMDIT/_apis/projects/04b16941-2be6-48a6-8539-cd2a068ab5d1",
+            "state": "wellFormed",
+            "revision": 53,
+            "visibility": "private",
+            "lastUpdateTime": "2020-04-04T17:37:03.56Z"
+        },
+        {
+            "id": "56323d9b-1767-4a1d-90fd-50a55fc49e71",
+            "name": "EPYC-Processor-Selector",
+            "url": "https://dev.azure.com/AMDIT/_apis/projects/56323d9b-1767-4a1d-90fd-50a55fc49e71",
+            "state": "wellFormed",
+            "revision": 154,
+            "visibility": "private",
+            "lastUpdateTime": "2020-06-02T05:38:07.23Z"
+        },
+        {
+            "id": "90c77bff-aef8-4023-a00a-9e1fdf16cc48",
+            "name": "AMD Partner Registration",
+            "url": "https://dev.azure.com/AMDIT/_apis/projects/90c77bff-aef8-4023-a00a-9e1fdf16cc48",
+            "state": "wellFormed",
+            "revision": 301,
+            "visibility": "private",
+            "lastUpdateTime": "2020-08-19T06:41:15.813Z"
+        },
+        {
+            "id": "d3eb7c50-040d-4147-8c39-0459b73997d9",
+            "name": "China-Serial-Number-Verification",
+            "url": "https://dev.azure.com/AMDIT/_apis/projects/d3eb7c50-040d-4147-8c39-0459b73997d9",
+            "state": "wellFormed",
+            "revision": 146,
+            "visibility": "private",
+            "lastUpdateTime": "2020-06-02T05:30:53.627Z"
+        },
+        {
+            "id": "332bb8f8-fdc3-49c9-98a5-07475571923d",
+            "name": "ART-Automated Returns Tool",
+            "url": "https://dev.azure.com/AMDIT/_apis/projects/332bb8f8-fdc3-49c9-98a5-07475571923d",
+            "state": "wellFormed",
+            "revision": 187,
+            "visibility": "private",
+            "lastUpdateTime": "2020-06-24T06:46:18.037Z"
+        },
+        {
+            "id": "ab5f8163-57b2-4cea-9f54-33dba280bfbc",
+            "name": "QMSA",
+            "url": "https://dev.azure.com/AMDIT/_apis/projects/ab5f8163-57b2-4cea-9f54-33dba280bfbc",
+            "state": "wellFormed",
+            "revision": 171,
+            "visibility": "private",
+            "lastUpdateTime": "2020-06-17T04:51:12.913Z"
+        }
+    ]
+}
