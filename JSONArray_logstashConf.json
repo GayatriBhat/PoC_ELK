@@ -1,0 +1,30 @@
+input { 
+		file {
+				#type => "json"
+				start_position => "beginning" 
+				path => "/home/mutg/elk/PoC_ELK/" 
+				sincedb_path => "/dev/null" 
+		}
+}
+filter { 
+		json {
+				source => "message"
+		}
+		split {
+				field => "[value]"
+		}
+		mutate {
+				add_field => {
+						"selfhref" => "%{[value][_links][self][href]}"
+						"pipelinename" => "%{[value][pipeline][name]}"
+						"" => "%{[value][pipeline][name]}"
+				}
+				remove_field => ["message", "@timestamp", "path", "host", "@version"]
+}
+output { 
+		elasticsearch { 
+				hosts => "http://localhost:9200" 
+				index => "devops-%{+YYYY-MM-dd}"
+		}
+		stdout {}
+}
